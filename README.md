@@ -2,6 +2,12 @@
 
 讓每個人可以和好朋友一起方便的紀錄、搜尋。
 
+# 下載連結
+
+Android：https://play.google.com/apps/testing/info.inalley.food
+
+iOS：夢中的未來。
+
 # 目前功能
 
 ## 搜尋
